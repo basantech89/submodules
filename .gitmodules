@@ -1,0 +1,3 @@
+[submodule "awesomelibrary"]
+	path = awesomelibrary
+	url = git@github.com:basantech89/awesomelibrary.git
